@@ -1,1 +1,1 @@
-# Project-on-Linear-Regression-2
+# Prediction using Linear Regression
