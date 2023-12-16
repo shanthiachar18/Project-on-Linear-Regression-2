@@ -11,16 +11,7 @@ Performed EDA to get more informative features like null values,outliers,correla
 * No outliers in the dataset
 * There is good correlation between the two variables. The score is 0.98 which shows the strong positive correlation.
 * variation is constant along the way in data
-# 3.Feature Engineering
-* Tried different transformation of data to estimate normal distribution and to remove any skewness
-# 4.Fitting a Linear Regression Model
-* Using 1. Ordinary least squares (OLS) regression
-2. Square Root transformation on data
-3. Cube Root transformation on Data
-4. Log transformation on Data
-# 5.Residual Analysis
-1. Test for Normality of Residuals (Q-Q Plot)
-2. Residual Plot to check Homoscedasticity or Hetroscedasticity
-# 6.Model Validation
-* Comparing different models with respect to their Root Mean Squared Errors.
-# 7.Predicting values from Model with Log Transformation on the Data
+# 2.Model Building:
+Used Simple Linear Regression model
+# 3.Model Validation:
+* R Square values
