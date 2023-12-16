@@ -15,3 +15,4 @@ Performed EDA to get more informative features like null values,outliers,correla
 Used Simple Linear Regression model
 # 3.Model Validation:
 * R Square values
+  
